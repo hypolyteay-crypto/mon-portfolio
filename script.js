@@ -13,8 +13,8 @@ const projects = [
     mark: "✳",
     background: "linear-gradient(135deg, #dedaff 0%, #f5e8ff 100%)",
     markColor: "#6659dd",
-    codeUrl: "https://github.com/votre-pseudo/studio-creatif",
-    demoUrl: "https://votre-pseudo.github.io/studio-creatif/"
+    codeUrl: "https://github.com/hypolyteay-crypto/studio-creatif",
+    demoUrl: "https://hypolyteay-crypto.github.io/atelier-nebuleuse/"
   },
   {
     title: "Tableau de bord",
@@ -25,7 +25,7 @@ const projects = [
     mark: "▦",
     background: "linear-gradient(135deg, #d6f5ee 0%, #e7f2ff 100%)",
     markColor: "#218f7b",
-    codeUrl: "https://github.com/votre-pseudo/tableau-de-bord",
+    codeUrl: "https://github.com/hypolyteay-crypto/tableau-de-bord",
     demoUrl: "https://votre-pseudo.github.io/tableau-de-bord/"
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     mark: "⌖",
     background: "linear-gradient(135deg, #ffe6d4 0%, #fff2cb 100%)",
     markColor: "#c56e3f",
-    codeUrl: "https://github.com/votre-pseudo/carnet-de-voyage",
+    codeUrl: "https://github.com/hypolyteay-crypto/carnet-de-voyage",
     demoUrl: "https://votre-pseudo.github.io/carnet-de-voyage/"
   }
 ];
